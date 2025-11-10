@@ -7,6 +7,8 @@ https://universe.roboflow.com/university-science-malaysia/label-printing-defect-
 
 Installation:
 
+The usual modules for a development environment are assumed to be installed: numpy, matplotlib, scikit-learn and tensorflow. Otherwise, they can be installed with a simple pip command.
+
 Download the project to disk and download the Roboflow dataset to the same directory.
 
 A folder named Label Printing Defect Version 2.v25-original-images.voc should have been created with the subfolders train, valid, and test.
